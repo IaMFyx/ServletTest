@@ -1,2 +1,5 @@
 i am fyx
+<<<<<<< HEAD
 creating branch new qi sj
+=======
+>>>>>>> feature1
